@@ -2,5 +2,5 @@
 layout: slide
 title: "Wilkommen to unser zweiten slide"
 ---
-WTF!!!
+Que dijóóóóóóó?????
 Use the left arrow to go back!
